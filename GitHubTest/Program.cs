@@ -11,6 +11,7 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Base program.");
+            Console.WriteLine("Base line.");
         }
     }
 }
