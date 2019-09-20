@@ -8,5 +8,6 @@ namespace GitHubTest
 {
     class AddedInMaster
     {
+        public string addedInMaster { get; set; }
     }
 }
